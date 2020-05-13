@@ -1,0 +1,10 @@
+TUTORIAL 
+
+Android Studio Tutorial - Chat App using SocketIO | Heroku | Node.js
+
+https://www.youtube.com/watch?v=gCj9Egt3yUI&t=1262s
+
+
+CODIGO FUENTE
+
+https://github.com/bhavya-arora/SocketIO_Chat_APP
