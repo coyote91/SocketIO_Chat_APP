@@ -8,3 +8,8 @@ https://www.youtube.com/watch?v=gCj9Egt3yUI&t=1262s
 CODIGO FUENTE
 
 https://github.com/bhavya-arora/SocketIO_Chat_APP
+
+
+subir proyecto a www.heroku.com
+
+si llegado un caso necesitara subir una base de datos, subirla a este otro servicio www.mlab.com
